@@ -55,6 +55,7 @@ $(function () {
 			w: 800
 		});
 		
+		// Create Menu objects...
 		//var menu = Crafty.e();
 		
 		var sharkSpeed = 120;
