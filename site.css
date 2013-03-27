@@ -1,5 +1,21 @@
 ﻿body{background-color:#004e4e;}
 
+.center-text{text-align:center;}
+.menu-text{
+	position:relative;
+	text-align: center;
+	font-size: 48px;
+	font-weight:bold;
+	font-family: 'Underdog', cursive;
+	color: #4d2918;
+	line-height:38px;
+	display: table;
+}
+
+.menu-text p{
+	display: table-cell;
+	vertical-align: middle;
+}
 #cr-stage{
 	margin: 30px auto;
 }
